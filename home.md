@@ -1,4 +1,6 @@
 ## DevOps
-### Class 0
+### Author
 [[about/me]]
+### Author
+[[class 0/class0]]
 
