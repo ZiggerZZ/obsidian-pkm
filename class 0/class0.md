@@ -44,7 +44,7 @@ handlers:
     script: auto
 ```
 
-Important fields: `instance_class`, `runtime`.
+Important fields: `instance_class`, `runtime`, `entrypoint`.
 
 #### Deploy
 
